@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="itstack-demo-upload-web:war">
+    <output-path>$PROJECT_DIR$/itstack-demo-upload-web/target</output-path>
+    <root id="archive" name="itstack-demo-upload-web.war">
+      <element id="artifact" artifact-name="itstack-demo-upload-web:war exploded" />
+    </root>
+  </artifact>
+</component>
